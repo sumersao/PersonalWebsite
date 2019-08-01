@@ -3,7 +3,7 @@
     "name":"Sumer Sao",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"Sao_Photo.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Math and Computational Science Major at Stanford University. Coding since 9th grade and a lover of algorithmic problem solving and interdisciplinary applications.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "saosumer@gmail.com",
     "phone": "321-325-2325",
@@ -14,7 +14,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.sumersao.me",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"http://sumersao.com",
     "social":[
       {
         "name":"linkedin",
@@ -39,45 +39,64 @@
       },
       {
         "school":"University of Central Florida",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree":"Mathematics",
+        "graduated":"N/A",
+        "description":"Took various math classes including Logic and Proof, Number Theory, and Calculus III with Analytic Geometry"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"TISTEF",
+        "title":"Assistant Research Scientist",
+        "years":"May 2017 - August 2017",
+        "description":"Worked on..."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Breakout Mentors",
+        "title":"Tutor",
+        "years":"March 2019 - Present",
+        "description":"Tutored "
+      }
+    ],
+    "leadership":[
+      {
+        "company":"Leadership",
+        "title":"Assistant Research Scientist",
+        "years":"May 2017 - August 2017",
+        "description":"Worked on..."
+      },
+      {
+        "company":"Breakout Mentors",
+        "title":"Tutor",
+        "years":"March 2019 - Present",
+        "description":"Tutored "
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Data Structure Final Project",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Dynamic Graph Connectivity: Data Structure Final Project",
+        "image":"dynamic_pic.jpg",
+        "url":"Files/166_Final_Project.pdf",
+        "downloadName":"Dynamic Graph Connectivity",
+        "caption":"big"
       },
       {
         "title":"",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"Files/Resume.pdf",
+        "downloadName":"old",
+        "caption":"old"
       },
       {
         "title":"",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"Files/Resume.pdf",
+        "downloadName":"test",
+        "caption":"test"
       }
     ]
   }
