@@ -80,23 +80,21 @@
         "image":"dynamic_pic.jpg",
         "url":"Files/166_Final_Project.pdf",
         "downloadName":"Dynamic Graph Connectivity",
-        "caption":"big"
+        "caption":"2019: "
       },
       {
         "title":"",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "image":"nasa_pic.jpg",
         "url":"Files/Resume.pdf",
         "downloadName":"old",
-        "caption":"old"
+        "caption":"2018: "
       },
       {
         "title":"",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "image":"balance_pic.jpg",
         "url":"Files/Resume.pdf",
         "downloadName":"test",
-        "caption":"test"
+        "caption":"2017: "
       }
     ]
   }
