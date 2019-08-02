@@ -77,21 +77,21 @@
     "projects": [
       {
         "title":"Dynamic Graph Connectivity: Data Structure Final Project",
-        "image":"dynamic_pic.jpg",
+        "image":"dynamic_pic.png",
         "url":"Files/166_Final_Project.pdf",
         "downloadName":"Dynamic Graph Connectivity",
         "caption":"2019: "
       },
       {
         "title":"",
-        "image":"nasa_pic.jpg",
+        "image":"nasa_pic.png",
         "url":"Files/Resume.pdf",
         "downloadName":"old",
         "caption":"2018: "
       },
       {
         "title":"",
-        "image":"balance_pic.jpg",
+        "image":"balance_pic.png",
         "url":"Files/Resume.pdf",
         "downloadName":"test",
         "caption":"2017: "
