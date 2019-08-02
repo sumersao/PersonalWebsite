@@ -802,6 +802,13 @@ properly.
 	text-align: center !important;
 }
 
+#myLinks {
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+   display: inline;
+}
+
 
 
 
