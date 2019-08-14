@@ -189,7 +189,7 @@ ul#nav li.current a { color: #F06000; }
 #about {
    background: #2B2B2B;
    padding-top: 96px;
-   padding-bottom: 66px;
+   padding-bottom: 36px;
    overflow: hidden;
 }
 
@@ -237,7 +237,7 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
+   padding-top: 60px;
    padding-bottom: 15px;
    overflow: hidden;
 }
@@ -427,8 +427,8 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
-   padding-bottom: 60px;
+   padding-top: 36px;
+   padding-bottom: 36px;
 }
 #portfolio h1 {
    font: 30px/36px 'opensans-semibold', sans-serif;

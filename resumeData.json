@@ -3,7 +3,7 @@
     "name":"Sumer Sao",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"Sao_Photo.jpg",
-    "bio":"Math and Computational Science Major at Stanford University. Coding since 9th grade and a lover of algorithmic problem solving and interdisciplinary applications.",
+    "bio":"Sumer is a Math and Computational Science Major at Stanford University. He’s been coding since 9th grade and loves algorithmic problem solving and interdisciplinary applications. A USACO Platinum Competitor in highschool, he is proficient in data structures and algorithms as well as machine learning and has tutored students in these fields previously. In addition to classes, he does machine learning and computational cancer research and organizes ProCo, a local competitive programming contest for highschoolers on Stanford campus, and Stanford Certamen, a Latin Quiz Bowl contest for highscoolers around the country. He also likes to play board games and sports with his friends.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "saosumer@gmail.com",
     "phone": "321-325-2325",
@@ -35,41 +35,41 @@
         "school":"Stanford University",
         "degree":"Bachelor of Science in Mathematical and Computional Science: Biology Track, Master of Science in Computer Science with a Specialization in Theory",
         "graduated":"June 2022",
-        "description":"Relevant Current and Completed Coursework: "
+        "description":"Relevant Current and Completed Coursework: • Data Structures, Design and Analysis of Algorithms, Optimization and Algorithmic Paradigms, Operating Systems, Computer Systems, Compilers, Automata and Complexity Theory • Matrix and Linear Algebra, Ordinary Differential Equations, Probability Theory, Multivariate Calculus, Intro to Optimization, Biochemistry and Molecular Biology, Intro to Microfluidics, Electricity and Magnetism"
       },
       {
         "school":"University of Central Florida",
         "degree":"Mathematics",
         "graduated":"N/A",
-        "description":"Took various math classes including Logic and Proof, Number Theory, and Calculus III with Analytic Geometry"
+        "description":"Took math classes including Logic and Proof, Number Theory, and Calculus III with Analytic Geometry. Also practiced with the UCF Programming team for 2 years."
       }
     ],
     "work":[
       {
-        "company":"TISTEF",
+        "company":"Townes Laser Institute, NASA",
         "title":"Assistant Research Scientist",
         "years":"May 2017 - August 2017",
-        "description":"..."
+        "description":"•  Developed, implemented, and tested the algorithms, in Python, for the novel Radiometric Infrared Extinction Imager • Developed both frontend and backend software for video processing data and measuring the Anisotropy Ellipse of Atmospheric Turbulence • Set up experiments and collected data for the above two projects on the runway of the Shuttle Landing Facility (SLF) • A government-funded lab focusing on research and development of electro-optic sensing technologies, laser wave beam propagation, and asset tracking through characterization by theoretical analysis and mathematical modeling."
       },
       {
         "company":"Breakout Mentors",
         "title":"Tutor",
         "years":"March 2019 - Present",
-        "description":"... "
+        "description":"•  Mentor at Breakout Mentors, a company that gives a personalized approach for kids learning to code. • Tutor 4-5 kids in Python, Java, and C++ working on projects from games, to algorithms, to machine learning."
       }
     ],
     "leadership":[
       {
-        "company":"Stanford Universtiy Mathematical Organization",
+        "company":"Stanford Universtiy Mathematical Organization (ProCO)",
         "title":"Coordinator/President",
         "years":"January 2019 - Present",
-        "description":"..."
+        "description":"•  In charge of organizing this event including running meetings, talking to corporate sponsors, and logistical planning with the university. • Problem writer, tester, and judge for ProCo. This entails writing algorithmic problems, solutions, and judge data. • ProCo is an annual computer science competition open to high school students in the Bay Area that has been held at Stanford for the past 10 years. Over 300 students participate in fun computer science challenges, including solving algorithmic type questions, programming games, and Capture the Flag (CTF)."
       },
       {
         "company":"Stanford Certamen",
         "title":"Co-Founder",
         "years":"March 2019 - Present",
-        "description":"..."
+        "description":"•  Orchestrate Stanford’s inaugural Certamen Invitation, an academic quiz bowl and lecture series weekend for middle and high schools across the nation, to provide an opportunity of exposure for local students to interact with Stanford students, faculty, and staff, and engage in Classical Studies with peers on a national level."
       }
     ]
   },
@@ -80,21 +80,28 @@
         "image":"dynamic_pic.png",
         "url":"Files/166_Final_Project.pdf",
         "downloadName":"Dynamic Graph Connectivity",
-        "caption":"2019: "
+        "caption":"2019: Project completed for my Data Structures class. This paper analyzes an amortized and worst case data structure that solves the dynamic graph connectivity problem."
       },
       {
         "title":"Novel Development of Extinction Imagers for the Determination of Atmospheric Optical Extinction",
         "image":"nasa_pic.png",
         "url":"Files/Resume.pdf",
-        "downloadName":"old",
-        "caption":"2018: "
+        "downloadName":"Sao_Extinction_Imagers",
+        "caption":"2018: A writeup of the work I did on Extinction Imagers with the Wave Propagation Group at the Townes Laser Institute. Proprietary code not included."
       },
       {
         "title":"An Analysis of Optimal Balance in a Dynamic System",
         "image":"balance_pic.png",
         "url":"Files/Resume.pdf",
-        "downloadName":"test",
-        "caption":"2017: "
+        "downloadName":"Sao_Optimal_Balance",
+        "caption":"2017: Write up of an independent project, describing how I created a mathematical model to describe containers with fluid and how I solved it using computational techniques."
+      },
+      {
+        "title":"Are All Rulings Created Equal? The Cause and Effect of Implicit Bias on Minorities in Criminal Justice",
+        "image":"rba_pic.png",
+        "url":"Files/Sao_Final_RBA.pdf",
+        "downloadName":"Sao_RBA",
+        "caption":"2019: My final research based project for my Rhetoric in Meritocracy class. It explores the cause and effect of Implicit Bias on Minorities in the Criminal Justice system."
       }
     ]
   }
